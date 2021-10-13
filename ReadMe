@@ -1,0 +1,9 @@
+Hii,
+My name is Ramnapreet Singh
+It is Our Group assignment , My team member is Yogesh And Arun. 
+It is A HAngman Android Game . We make this game as a Three Group member . The main  Purpose of the game is Fun  and Entertainment . 
+It is a Android Application. We make make this application with the help of Visual Studio , Android plateform Xamarin . We dvide this game into three parts
+Layouts , Activities , Resources 
+Layouts Describes how game look like mainly focus on User Interface . How Buttons Are design , margins , padding , colours and so on .
+Activities are like main heart of the game. we can said backend of the game which user can feel the game how game run and function of the game for example  when person win or loose  high score changer accordinly 
+Resources is the one of important part of the game like Images , icons , and media types . We can see all the media files are strored is drawable folder where we use the refrences and id 
